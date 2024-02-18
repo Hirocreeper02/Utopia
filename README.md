@@ -1,7 +1,7 @@
 # Utopia : Glory and Beyond
 
-    “Men come and go, cities rise and fall, whole civilizations appear and disappear-the earth remains, slightly modified.”
-    - Edward Abbey, in *Desert Solitaire* (1968)
+    “Men come and go, cities rise and fall, whole civilizations appear and disappear - the earth remains, slightly modified.”
+    - Edward Abbey, in Desert Solitaire (1968)
 
 Utopia is a grand strategy video game that takes you from the first civilizations to the nuclear ages. Don't think that this will be a nice and cute little adventure, as your civilization will most certainly crumble to its ashes severall time and will have no certainty to get back up from them. 
 

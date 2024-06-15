@@ -5,10 +5,10 @@ using UnityEngine;
 public class issue : MonoBehaviour
 {
     
-    object smartspider;
+    smartspider smartspider;
     
     void initialisation()
     {
-        //smartspider.addIssue(this);
+        smartspider.addIssue(this);
     }
 }

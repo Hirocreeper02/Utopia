@@ -1,0 +1,6 @@
+plated_armour = Armour(
+    name = "Plated armour",
+    protection = 0.5,
+    cost = 10,
+    weight  = 20
+)

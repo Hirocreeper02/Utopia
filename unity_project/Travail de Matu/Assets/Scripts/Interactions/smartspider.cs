@@ -20,12 +20,12 @@ public class smartspider : MonoBehaviour
         
     }
     
-    void addIssue(object issue)
+    public void addIssue(object issue)
     {
         this.position.Add(issue,0);
     }
     
-    void removeIssue(object issue)
+    public void removeIssue(object issue)
     {
         this.position.Remove(issue);
     }

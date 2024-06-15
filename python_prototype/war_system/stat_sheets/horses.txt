@@ -1,0 +1,7 @@
+mustang_horse = Horse(
+    name = "Mustang",
+    speed = 10,
+    strength = 35,
+    cost = 10,
+    weight = 30
+)

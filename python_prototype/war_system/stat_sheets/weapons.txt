@@ -1,0 +1,8 @@
+heavy_sword = Weapon(
+    name = "Heavy sword",
+    dammage = 10,
+    cost = 5,
+    weight = 5,
+    weapon_range = 1,
+    ranged_dammage = None
+)

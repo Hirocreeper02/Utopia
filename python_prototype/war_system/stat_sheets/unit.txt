@@ -1,0 +1,12 @@
+knight = Unit(
+    row = 0,
+    name = "Knight",
+    tag = "KNI",
+    rank = 1,
+    weapon = heavy_sword,
+    secondary_weapon = heavy_sword,
+    armour = plated_armour,
+    shield = ecusson_shield,
+    horse = mustang_horse,
+    owner = None
+)

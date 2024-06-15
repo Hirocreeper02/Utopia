@@ -1,0 +1,6 @@
+ecusson_shield = Shield(
+    name = "Ecusson",
+    protection = 0.2,
+    cost = 5,
+    weight = 5
+)
